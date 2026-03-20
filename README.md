@@ -1,7 +1,7 @@
 # Roovey
 The Roovey Virtual Machine!
 
-Roovey is a virtual machine written in Rust.
+Roovey is a virtual machine written in Rust, C, and Python.
 
 ## License
 
