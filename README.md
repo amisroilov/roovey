@@ -1,5 +1,4 @@
-# Roovey
-The Roovey Virtual Machine!
+# Roovey | The user-first VM
 
 Roovey is a virtual machine written in Rust, C, and Python.
 
